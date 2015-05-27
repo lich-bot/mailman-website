@@ -17,6 +17,8 @@ BS3_THEME = 'https://bootswatch.com/flatly/bootstrap.min.css'
 CSS_OVERWRITE = '/css/style.css'
 DEFAULT_LANG = u'en'
 
+URL_PREFIX = 'list.org'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None

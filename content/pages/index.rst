@@ -35,15 +35,12 @@ The current stable GNU Mailman version are 2.1.20 released on
 Acknowledgements
 ~~~~~~~~~~~~~~~~
 
-Mailman's lead developer is `Barry Warsaw <http://barry.warsaw.us>`__
-who can be contacted `barry at list dot
-org <mailto:%62%61%72%72%79%40%6C%69%73%74%2E%6F%72%67>`__. Core
-developers are Mark Sapiro,
-
-Aurélien Bompard, Florian Fuchs, Terri Oda, Stephen J. Turnbull,
-Abhilash Raj. We thank all of our great GSoC students and mentors, and
-the wider Mailman community for contributing to the development of GNU
-Mailman.
+Mailman's lead developer is `Barry Warsaw <http://barry.warsaw.us>`__ who can be
+contacted `barry at list dot org
+<mailto:%62%61%72%72%79%40%6C%69%73%74%2E%6F%72%67>`__. Core developers are Mark
+Sapiro, Aurélien Bompard, Florian Fuchs, Terri Oda, Stephen J. Turnbull,
+Abhilash Raj. We thank all of our great GSoC students and mentors, and the wider
+Mailman community for contributing to the development of GNU Mailman.
 
 Thanks go out to:
 

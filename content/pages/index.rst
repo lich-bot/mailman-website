@@ -1,4 +1,3 @@
-:slug: index
 :save_as: index.html
 
 Mailman, the GNU Mailing List Manager

@@ -44,8 +44,15 @@ DEFAULT_PAGINATION = False
 MENUITEMS = [
     ('Home', '/'),
     ('Wiki', 'http://wiki.list.org'),
-    ('Documentation', 'http://docs.mailman3.org'),
+    ('Documentation', [
+        ('Mailman Suite', 'http://docs.mailman3.org'),
+        ('Mailman Core', 'http://mailman.readthedocs.org'),
+        ('Postorius', 'http://postorius.readthedocs.org'),
+        ('Mailman Client', 'http://mailmanclient.rtfd.org'),
+        ('Hyperkitty', 'http://hyperkitty.rtfd.org'),
+    ]),
     ('Source Code', 'http://gitlab.com/mailman/'),
+    ('Donate', 'https://my.fsf.org/civicrm/contribute/transact?reset=1&id=22'),
 ]
 
 FAVICON = ''
@@ -53,11 +60,12 @@ FAVICON_TYPE = u'jpeg'
 LOGO_URL = 'images/logo2010-2.jpg'
 
 SIDEBAR_LINKS = [
+    ('Download', '/download.html'),
     ('Security', '/security.html'),
     ('Features', '/features.html'),
     ('Discussion Lists', '/lists.html'),
-    ('Rants, Papers and Logos', '/otherstuff.html'),
-    ('Bugs', '/bugs.html'),
+    ('Rants, Papers and Logos', '/rants.html'),
+    ('Developers', '/devs.html'),
     ('Mirror', '/mirrors.html'),
     ('Barry Warsaw', 'http://barry.warsaw.us'),
 ]

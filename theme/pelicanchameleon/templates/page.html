@@ -1,0 +1,26 @@
+{% set name = page.title %}
+{% set link = page.url %}
+{% extends "base.html" %}
+
+{% block left_sidebar %}
+<div class="sidebar">
+  <table class="table table-hover">
+  {% for each in SIDEBAR_LINKS %}
+  <tr><td>
+    <span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span>
+    <a href="{{each[1]}}">{{ each[0] }}</a>
+  </td></tr>
+  {% endfor %}
+  </table>
+  <a href="https://python.org">
+    <img src='theme/images/python-logo.png' alt='python-powered'>
+  </a>
+</div>
+{% endblock  %}
+
+
+{% block content %}
+<div id="page-content">
+  {{ page.content }}
+</div>
+{% endblock %}

@@ -12,8 +12,8 @@ TIMEZONE = 'Europe/Paris'
 
 STATIC_PATHS = ['images', 'css']
 
-THEME = 'theme/pelican-chameleon'
-BS3_THEME = 'https://bootswatch.com/flatly/bootstrap.min.css'
+THEME = 'theme/pelicanchameleon'
+BS3_THEME = 'https://bootswatch.com/readable/bootstrap.min.css'
 CSS_OVERWRITE = '/css/style.css'
 DEFAULT_LANG = u'en'
 
@@ -50,7 +50,7 @@ MENUITEMS = [
 
 FAVICON = ''
 FAVICON_TYPE = u'jpeg'
-LOGO_URL = 'images/logo2010.png'
+LOGO_URL = 'images/logo2010-2.jpg'
 
 SIDEBAR_LINKS = [
     ('Security', '/security.html'),

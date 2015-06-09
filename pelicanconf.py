@@ -17,7 +17,7 @@ BS3_THEME = 'https://bootswatch.com/readable/bootstrap.min.css'
 CSS_OVERWRITE = '/css/style.css'
 DEFAULT_LANG = u'en'
 
-URL_PREFIX = 'list.org'
+URL_PREFIX = ''
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

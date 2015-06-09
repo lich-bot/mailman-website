@@ -10,10 +10,10 @@ PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
 
-STATIC_PATHS = ['images', 'css']
+STATIC_PATHS = ['images', 'css', 'fonts']
 
 THEME = 'theme/pelicanchameleon'
-BS3_THEME = 'https://bootswatch.com/readable/bootstrap.min.css'
+BS3_THEME = '/css/bootstrap.min.css'
 CSS_OVERWRITE = '/css/style.css'
 DEFAULT_LANG = u'en'
 
@@ -55,7 +55,7 @@ MENUITEMS = [
     ('Donate', 'https://my.fsf.org/civicrm/contribute/transact?reset=1&id=22'),
 ]
 
-FAVICON = ''
+FAVICON = 'images/favicon.ico'
 FAVICON_TYPE = u'jpeg'
 LOGO_URL = 'images/logo2010-2.jpg'
 

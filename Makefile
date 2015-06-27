@@ -108,3 +108,14 @@ github: publish
 	git push origin $(GITHUB_PAGES_BRANCH)
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
+
+# Use args for rsync like -a without the permission setting flag.  I want to
+# keep the permissions set the way they are on the destination files, not on
+# my source files.  Also add verbosity, compression, and ignoring CVS.
+RSYNC_ARGS = -nrltgoDCvz
+
+install:
+	-rsync $(RSYNC_ARGS) output/ barry@www.list.org:www.list.org
+	-rsync $(RSYNC_ARGS) output/ bwarsaw,mailman@web.sourceforge.net:htdocs/
+	-rsync $(RSYNC_ARGS) output/ $(HOME)/projects/mailman-gnu
+	-rsync $(RSYNC_ARGS) output/ $(USER)@mirror.wooz.org:/var/www/listorg/

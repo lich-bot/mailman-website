@@ -112,7 +112,7 @@ github: publish
 # Use args for rsync like -a without the permission setting flag.  I want to
 # keep the permissions set the way they are on the destination files, not on
 # my source files.  Also add verbosity, compression, and ignoring CVS.
-RSYNC_ARGS = -nrltgoDCvz
+RSYNC_ARGS = -rltgoDCvz
 
 install:
 	-rsync $(RSYNC_ARGS) output/ barry@www.list.org:www.list.org

@@ -4,10 +4,9 @@
 Developer Resources
 ~~~~~~~~~~~~~~~~~~~
 
-If you're the kind of person who loves to get elbow deep in code, there
-are lots of opportunities to dig into Mailman. The next version of
-Mailman is under active development and we would welcome your input and
-contributions.
+If you're the kind of person who loves to get elbow deep in code, there are
+lots of opportunities to dig into Mailman.  Mailman 3 is under active
+development and we would welcome your input and contributions.
 
 The primary gathering point for all development should be the `Mailman
 Wiki <http://wiki.list.org>`__ and specifically the `Development home
@@ -21,25 +20,29 @@ definitely want to subscribe to the
 `mailman-developers <http://mail.python.org/mailman/listinfo/mailman-developers>`__
 mailing list.
 
+**Please do not send patches to the mailing lists.  They will get lost!**  Use
+the project hosting sites described below, and note that they are different
+for Mailman 3 and 2.1.
+
+
+GitLab Project Page
+~~~~~~~~~~~~~~~~~~~
+
+Mailman 3 (core, Postorius, HyperKitty, etc.) are all developed under the
+`mailman <https://gitlab.com/groups/mailman>`__ group on `GitLab
+<http://gitlab.com>`__.  All issues and pull requests should be submitted to the
+appropriate sub-project.
+
+
 Launchpad Project Page
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Developers should start with the `Mailman project at
-Launchpad <https://launchpad.net/mailman>`__. All patches, bugs, and
-branches should be submitted here so they won't get lost, although it is
-also requested that you inform the mailman-developers list about your
-submissions. Please do not send patches to the mailing list!
-
-You might also want to look at the `old Mailman project page at
-SourceForge <http://sourceforge.net/projects/mailman>`__. We appreciate
-the years of good service from the SourceForge guys, but we've moved all
-Mailman development to `Launchpad <https://launchpad.net/mailman>`__. Be
-aware that while the SF trackers are still live so as to support
-historical incoming links, any changes you make to them will **not** be
-noticed by the Mailman developers.
+Mailman 2.1 continues to be developed on the `Mailman project at Launchpad
+<https://launchpad.net/mailman>`__. All patches, bugs, and merge proposals for
+Mailman 2.1 should be submitted here.
 
 IRC
 ~~~
 
-Some of the Mailman developers also occasionally hang out on the
-*#mailman* IRC channel at freenode.net. Stop by!
+Some of the Mailman developers also occasionally hang out on the ``#mailman``
+IRC channel on the `freenode IRC network <https://freenode.net/>`__. Stop by!

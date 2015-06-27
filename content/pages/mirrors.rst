@@ -11,4 +11,3 @@ Here are the current list of mirrors:
 -  `GNU <http://www.gnu.org/software/mailman/index.html>`__
 -  `SourceForge <http://mailman.sourceforge.net>`__
 -  `mirror.list.org <http://mirror.list.org/>`__
--  `European mirror <http://www.very-clever.com/mailman/>`__

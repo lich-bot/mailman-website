@@ -50,8 +50,11 @@ MENUITEMS = [
         ('Postorius', 'http://postorius.readthedocs.org'),
         ('Mailman Client', 'http://mailmanclient.rtfd.org'),
         ('Hyperkitty', 'http://hyperkitty.rtfd.org'),
-    ]),
-    ('Source Code', 'http://gitlab.com/mailman/'),
+        ]),
+    ('Source Code', [
+        ('Mailman 3', 'http://gitlab.com/mailman/'),
+        ('Mailman 2.1', 'https://code.launchpad.net/mailman'),
+        ]),
     ('Donate', 'https://my.fsf.org/civicrm/contribute/transact?reset=1&id=22'),
 ]
 
@@ -60,12 +63,10 @@ FAVICON_TYPE = u'jpeg'
 LOGO_URL = 'images/logo2010-2.jpg'
 
 SIDEBAR_LINKS = [
+    ('Contact Us', '/contact.html'),
     ('Download', '/download.html'),
-    ('Security', '/security.html'),
     ('Features', '/features.html'),
-    ('Discussion Lists', '/lists.html'),
     ('Rants, Papers and Logos', '/rants.html'),
     ('Developers', '/devs.html'),
-    ('Mirror', '/mirrors.html'),
-    ('Barry Warsaw', 'http://barry.warsaw.us'),
+    ('Mirrors', '/mirrors.html'),
 ]

@@ -114,8 +114,14 @@ github: publish
 # my source files.  Also add verbosity, compression, and ignoring CVS.
 RSYNC_ARGS = -rltgoDCvz
 
-install:
+install-main:
 	-rsync $(RSYNC_ARGS) output/ barry@www.list.org:www.list.org
-	-rsync $(RSYNC_ARGS) output/ bwarsaw,mailman@web.sourceforge.net:htdocs/
+
+install-gnu:
 	-rsync $(RSYNC_ARGS) output/ $(HOME)/projects/mailman-gnu
+
+install-others:
+	-rsync $(RSYNC_ARGS) output/ bwarsaw,mailman@web.sourceforge.net:htdocs/
 	-rsync $(RSYNC_ARGS) output/ $(USER)@mirror.wooz.org:/var/www/listorg/
+
+install: install-main install-gnu install-others

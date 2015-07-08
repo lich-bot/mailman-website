@@ -13,8 +13,8 @@ TIMEZONE = 'Europe/Paris'
 STATIC_PATHS = ['images', 'css', 'fonts']
 
 THEME = 'theme/pelicanchameleon'
-BS3_THEME = '/css/bootstrap.min.css'
-CSS_OVERWRITE = '/css/style.css'
+BS3_THEME = 'css/bootstrap.min.css'
+CSS_OVERWRITE = 'css/style.css'
 DEFAULT_LANG = u'en'
 
 URL_PREFIX = ''
@@ -63,10 +63,10 @@ FAVICON_TYPE = u'jpeg'
 LOGO_URL = 'images/logo2010-2.jpg'
 
 SIDEBAR_LINKS = [
-    ('Contact Us', '/contact.html'),
-    ('Download', '/download.html'),
-    ('Features', '/features.html'),
-    ('Rants, Papers and Logos', '/rants.html'),
-    ('Developers', '/devs.html'),
-    ('Mirrors', '/mirrors.html'),
-]
+    ('Contact Us', 'contact.html'),
+    ('Download', 'download.html'),
+    ('Features', 'features.html'),
+    ('Rants, Papers and Logos', 'rants.html'),
+    ('Developers', 'devs.html'),
+    ('Mirrors', 'mirrors.html'),
+    ]

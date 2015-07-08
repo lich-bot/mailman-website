@@ -42,7 +42,7 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 MENUITEMS = [
-    ('Home', '/'),
+    ('Home', 'index.html'),
     ('Wiki', 'http://wiki.list.org'),
     ('Documentation', [
         ('Mailman Suite', 'http://docs.mailman3.org'),

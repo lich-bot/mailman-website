@@ -120,8 +120,10 @@ install-main:
 install-gnu:
 	-rsync $(RSYNC_ARGS) output/ $(HOME)/projects/mailman-gnu
 
-install-others:
+install-sf:
 	-rsync $(RSYNC_ARGS) output/ bwarsaw,mailman@web.sourceforge.net:htdocs/
+
+install-wooz:
 	-rsync $(RSYNC_ARGS) output/ $(USER)@mirror.wooz.org:/var/www/listorg/
 
-install: install-main install-gnu install-others
+install: install-main install-gnu install-sf install-wooz

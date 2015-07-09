@@ -70,3 +70,7 @@ SIDEBAR_LINKS = [
     ('Developers', 'devs.html'),
     ('Mirrors', 'mirrors.html'),
     ]
+
+import subprocess
+GIT_HEAD_HASH = subprocess.check_output(['git', 'rev-parse', '--short', 'HEAD'])
+DATE = subprocess.check_output(['date'])

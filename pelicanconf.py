@@ -72,5 +72,7 @@ SIDEBAR_LINKS = [
     ]
 
 import subprocess
-GIT_HEAD_HASH = subprocess.check_output(['git', 'rev-parse', '--short', 'HEAD'])
-DATE = subprocess.check_output(['date'])
+GIT_HEAD_HASH = subprocess.check_output(
+    ('git', 'rev-parse', '--short', 'HEAD')).strip()
+DATE = subprocess.check_output(
+    ('git', 'show', '-s', '--format=%ci', GIT_HEAD_HASH))

@@ -24,22 +24,69 @@ mailing list.
 the project hosting sites described below, and note that they are different
 for Mailman 3 and 2.1.
 
+Security
+~~~~~~~~
 
-GitLab Project Page
-~~~~~~~~~~~~~~~~~~~
+**In all cases, if you find any security issues in any version or component of
+Mailman**, please contact mailman-security@python.org and see our `security
+page <http://wiki.list.org/SEC/Home>`__ for more details.
 
-Mailman 3 (core, Postorius, HyperKitty, etc.) are all developed under the
+
+Mailman 3
+~~~~~~~~~
+
+Mailman 3 is a suite of tools that work together.  All are developed under the
 `mailman <https://gitlab.com/groups/mailman>`__ group on `GitLab
-<http://gitlab.com>`__.  All issues and pull requests should be submitted to the
-appropriate sub-project.
+<http://gitlab.com>`__.  Here are the projects, along with links to their bug
+tracker and source code repositories.  We welcome you to also submit merge
+requests for bugs and features you might work on.  All projects use git for
+version control.
+
+* `Mailman Core <https://gitlab.com/mailman/mailman>`__
+
+  * `Issue tracker <https://gitlab.com/mailman/mailman/issues>`__
+  * `View the source <https://gitlab.com/mailman/mailman/tree/master>`__
+  * `Submit merge requests <https://gitlab.com/mailman/mailman/merge_requests>`__
+* `Postorius, the official web user interface <https://gitlab.com/mailman/postorius>`__
+
+  * `Issue tracker <https://gitlab.com/mailman/postorius/issues>`__
+  * `View the source <https://gitlab.com/mailman/postorius/tree/master>`__
+  * `Submit merge requests <https://gitlab.com/mailman/postorius/merge_requests>`__
+
+* `HyperKitty, the archiver for GNU Mailman 3 <https://gitlab.com/mailman/hyperkitty>`__
+
+  * `Issue tracker <https://gitlab.com/mailman/hyperkitty/issues>`__
+  * `View the source <https://gitlab.com/mailman/hyperkitty/tree/master>`__
+  * `Submit merge requests <https://gitlab.com/mailman/hyperkitty/merge_requests>`__
+* `Mailman Client, the official Python bindings for the REST API <https://gitlab.com/mailman/mailmanclient>`__
+
+  * `Issue tracker <https://gitlab.com/mailman/mailmanclient/issues>`__
+  * `View the source <https://gitlab.com/mailman/mailmanclient/tree/master>`__
+  * `Submit merge requests <https://gitlab.com/mailman/mailmanclient/merge_requests>`__
+
+* `The Mailman bundler, a convenient installer for the suite <https://gitlab.com/mailman/mailman-bundler>`__
+
+  * `Issue tracker <https://gitlab.com/mailman/mailman-bundler/issues>`__
+  * `View the source <https://gitlab.com/mailman/mailman-bundler/tree/master>`__
+  * `Submit merge requests <https://gitlab.com/mailman/mailman-bundler/merge_requests>`__
+
+* `This website <https://gitlab.com/mailman/mailman-website>`__
+
+  * `Issue tracker <https://gitlab.com/mailman/mailman-website/issues>`__
+  * `View the source <https://gitlab.com/mailman/mailman-website/tree/master>`__
+  * `Submit merge requests <https://gitlab.com/mailman/mailman-website/merge_requests>`__
 
 
-Launchpad Project Page
-~~~~~~~~~~~~~~~~~~~~~~
+Mailman 2.1
+~~~~~~~~~~~
 
 Mailman 2.1 continues to be developed on the `Mailman project at Launchpad
-<https://launchpad.net/mailman>`__. All patches, bugs, and merge proposals for
-Mailman 2.1 should be submitted here.
+<https://launchpad.net/mailman>`__.  Mailman 2.1 uses Bazaar for its version
+control.
+
+* `Issue tracker <https://bugs.launchpad.net/mailman>`__
+* `View the source <http://bazaar.launchpad.net/~mailman-coders/mailman/2.1/files>`__
+
 
 IRC
 ~~~

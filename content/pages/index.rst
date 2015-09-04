@@ -26,11 +26,17 @@ security related information.
 Our `wiki <http://wiki.list.org>`__ has lots of other great information,
 including a FAQ.
 
+Our `Code of Conduct <coc.html>`__ applies to all of our modes of discussion
+and collaboration, including the GNU Mailman mailing lists, wiki pages, and
+IRC channels.
+
+
 Current Version
 ~~~~~~~~~~~~~~~
 
 The current stable GNU Mailman version are 2.1.20 released on
 31-Mar-2015. and 3.0.0 (Show Don't Tell) released on 28-Apr-2015.
+
 
 Contact Us
 ~~~~~~~~~~

@@ -69,6 +69,7 @@ SIDEBAR_LINKS = [
     ('Rants, Papers and Logos', 'rants.html'),
     ('Developers', 'devs.html'),
     ('Mirrors', 'mirrors.html'),
+    ('Code of Conduct', 'coc.html'),
     ]
 
 import subprocess

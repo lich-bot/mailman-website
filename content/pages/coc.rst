@@ -63,6 +63,5 @@ Note
 ~~~~
 
 This document was derived from the `Python Software Foundation Code of Conduct
-<https://www.python.org/psft/codeofconduct/">`__, which is licensed under the
-terms of the `Creative Commons Zero license <...>`__ (CC0).  This document is
-therefore also licensed under the terms of the CC0.
+<https://www.python.org/psf/codeofconduct/>`__, which is licensed under the
+terms of the `Creative Commons Zero license <https://creativecommons.org/choose/zero/>`__ (CC0).  This document is therefore also licensed under the terms of the CC0.

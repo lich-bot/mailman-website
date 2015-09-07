@@ -29,10 +29,11 @@ Considerate
 ~~~~~~~~~~~
 
 Members of the community are considerate of their peers -- and other GNU
-Mailman users.  We're thoughtful when addressing the efforts of others,
-keeping in mind that often times the labor was completed simply for the good
-of the community.  We're attentive in our communications, whether in person
-or online, and we're tactful when approaching differing views.
+Mailman users, list administrators, and subscribers.  We're thoughtful when
+addressing the efforts of others, keeping in mind that often times the labor
+was completed simply for the good of the community.  We're attentive in our
+communications, whether in person or online, and we're tactful when
+approaching differing views.
 
 
 Respectful
@@ -53,10 +54,7 @@ No Spam or UCE
 ~~~~~~~~~~~~~~
 
 We disapprove, in the strongest possible way, of any use of GNU Mailman to
-send spam or unsolicited commercial email (UCE).  GNU Mailman is `Free
-Software <http://www.gnu.org/philosophy/philosophy.html>`__ which means its
-developers have no access to, affiliation with, or control over how or where
-it is used.
+send spam or unsolicited commercial email (UCE).
 
 
 Note

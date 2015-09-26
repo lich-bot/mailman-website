@@ -12,9 +12,8 @@ processing, content filtering, digest delivery, spam filters, and more.
 See the `features page <features.html>`__ for details.
 
 Mailman is free software, distributed under the `GNU General Public
-License <http://www.gnu.org/copyleft/gpl.html>`__. Mailman is written in
-the `Python <http://www.python.org/>`__ programming language, with a
-little bit of C code for security.
+License <http://www.gnu.org/copyleft/gpl.html>`__, and written in
+the `Python <http://www.python.org/>`__ programming language.
 
 Please `donate to GNU
 Mailman <https://my.fsf.org/civicrm/contribute/transact?reset=1&id=22>`_

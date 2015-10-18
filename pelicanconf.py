@@ -74,6 +74,7 @@ SIDEBAR_LINKS = [
     ('Developers', 'devs.html'),
     ('Mirrors', 'mirrors.html'),
     ('Code of Conduct', 'coc.html'),
+    ('Help', 'help.html'),
     ]
 
 import subprocess

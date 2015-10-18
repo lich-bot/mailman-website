@@ -20,7 +20,8 @@ Mailman <https://my.fsf.org/civicrm/contribute/transact?reset=1&id=22>`_
 project. (`details <http://wiki.list.org/x/R4BJ>`__)
 
 See the `Security page <http://wiki.list.org/SEC/Home>`__ for important
-security related information.
+security related information, and the `help <help.html>`__ page for additional
+resources for users, list and site administrators, and developers.
 
 Our `wiki <http://wiki.list.org>`__ has lots of other great information,
 including a FAQ.

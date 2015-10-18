@@ -16,7 +16,7 @@ You should also check out the community driven
 `wiki <http://wiki.list.org>`__, which hold the most up-to-date
 information about Mailman.
 
-Beyond those reosurces, please use the `discussion lists <lists.html>`__
+Beyond those resources, please use the `discussion lists <lists.html>`__
 for asking questions. There are lots of very helpful and knowledgeable
 people on the lists who can help. Probably the most helpful will be the
 `mailman-users <http://mail.python.org/mailman/listinfo/mailman-users>`__

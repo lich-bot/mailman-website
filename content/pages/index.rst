@@ -15,9 +15,12 @@ Mailman is free software, distributed under the `GNU General Public
 License <http://www.gnu.org/copyleft/gpl.html>`__, and written in
 the `Python <http://www.python.org/>`__ programming language.
 
-Please `donate to GNU
-Mailman <https://my.fsf.org/civicrm/contribute/transact?reset=1&id=22>`_
-project. (`details <http://wiki.list.org/x/R4BJ>`__)
+We want to thank our generous list of 
+`financial donors <http://wiki.list.org/COM/Donors>`__ whose
+contributions allowed us to send a core developer to PyCon 2015.  
+Please consider 
+`donating to the GNU Mailman <https://my.fsf.org/civicrm/contribute/transact?reset=1&id=22>`__
+project yourself. (`details <http://wiki.list.org/x/R4BJ>`__)
 
 See the `Security page <http://wiki.list.org/SEC/Home>`__ for important
 security related information, and the `help <help.html>`__ page for additional
@@ -66,7 +69,6 @@ Thanks go out to:
   fund <https://my.fsf.org/civicrm/contribute/transact?reset=1&id=22>`__.
 - `cPanel <http://cpanel.com>`__ for their generous donation of server
   resources for our `GitLab <http://gitlab.com>`__ CI system.
-- the `list of
-  contributors <http://bazaar.launchpad.net/~mailman-coders/mailman/3.0/view/head%3A/src/mailman/docs/ACKNOWLEDGMENTS.rst>`__,
+- the `list of   contributors <http://tinyurl.com/qcb4hob>`__,
   bug hunters, big idea people, and others who have helped immensely
   with Mailman's development.

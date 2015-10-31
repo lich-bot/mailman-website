@@ -1,6 +1,37 @@
 :slug: rants
 :save_as: rants.html
 
+Videos
+~~~~~~
+
+- `Mailman 3 <http://pyvideo.org/video/688/mailman-3>`__ talk given at PyCon
+  US 2012 by Barry Warsaw.
+
+
+Articles
+~~~~~~~~
+
+- Here's a link to a `Linux Journal article
+  <http://www.linuxjournal.com/article/3844>`__ Barry wrote about Mailman
+  in 2000.
+
+Papers
+~~~~~~
+
+-  `GNU Mailman,
+   Internationalized <http://www.usenix.org/events/usenix03/tech/freenix03/warsaw.html>`__,
+   Warsaw, USENIX 2003 Annual Technical Conference, FREENIX Track.
+-  `Mailman - An Extensible Mailing List Manager Using
+   Python <http://myriadicity.net/software-and-systems/craft/mailman_ip7.pdf>`__,
+   Manheimer, Warsaw, Viega, `7th International Python
+   Conference <http://legacy.python.org/workshops/1998-11/proceedings.html>`__
+   in Houston, TX.
+-  `Mailman: The GNU Mailing List
+   Manager <http://www.usenix.org/publications/library/proceedings/lisa98/full_papers/viega/viega_html/viega.html>`__,
+   Viega, Warsaw, Manheimer, `12th Usenix Systems Administration
+   Conference (LISA
+   '98) <http://www.usenix.org/publications/library/proceedings/lisa98/technical.html>`__.
+
 Rants
 ~~~~~
 
@@ -10,30 +41,6 @@ articles only.
 
 -  `Mailman Considered Beneficial <jwzrebuttal.html>`__, a rebuttal to
    the (in)famous JWZ article.
-
-Articles
-~~~~~~~~
-
-Here's a link to a `Linux Journal
-article <http://www.linuxjournal.com/article/3844>`__ I wrote about
-Mailman in 2000.
-
-Papers
-~~~~~~
-
--  `GNU Mailman,
-   Internationalized <http://www.usenix.org/events/usenix03/tech/freenix03/warsaw.html>`__,
-   Warsaw, USENIX 2003 Annual Technical Conference, FREENIX Track.
--  `Mailman - An Extensible Mailing List Manager Using
-   Python <http://www.foretec.com/python/workshops/1998-11/proceedings/papers/manheimer/manheimer.html>`__,
-   Manheimer, Warsaw, Viega, `7th International Python
-   Conference <http://www.foretec.com/python/workshops/1998-11/proceedings.html>`__
-   in Houston, TX.
--  `Mailman: The GNU Mailing List
-   Manager <http://www.usenix.org/publications/library/proceedings/lisa98/full_papers/viega/viega_html/viega.html>`__,
-   Viega, Warsaw, Manheimer, `12th Usenix Systems Administration
-   Conference (LISA
-   '98) <http://www.usenix.org/publications/library/proceedings/lisa98/technical.html>`__.
 
 Logos
 ~~~~~

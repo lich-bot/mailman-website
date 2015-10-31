@@ -70,7 +70,7 @@ SIDEBAR_LINKS = [
     ('Contact Us', 'contact.html'),
     ('Download', 'download.html'),
     ('Features', 'features.html'),
-    ('Rants, Papers and Logos', 'rants.html'),
+    ('Media', 'rants.html'),
     ('Developers', 'devs.html'),
     ('Mirrors', 'mirrors.html'),
     ('Code of Conduct', 'coc.html'),

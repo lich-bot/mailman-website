@@ -15,10 +15,10 @@ Mailman is free software, distributed under the `GNU General Public
 License <http://www.gnu.org/copyleft/gpl.html>`__, and written in
 the `Python <http://www.python.org/>`__ programming language.
 
-We want to thank our generous list of 
+We want to thank our generous list of
 `financial donors <http://wiki.list.org/COM/Donors>`__ whose
-contributions allowed us to send a core developer to PyCon 2015.  
-Please consider 
+contributions allowed us to send a core developer to PyCon 2015.
+Please consider
 `donating to the GNU Mailman <https://my.fsf.org/civicrm/contribute/transact?reset=1&id=22>`__
 project yourself. (`details <http://wiki.list.org/x/R4BJ>`__)
 
@@ -38,7 +38,7 @@ Current Version
 ~~~~~~~~~~~~~~~
 
 The current stable GNU Mailman version are 2.1.20 released on
-31-Mar-2015. and 3.0.0 (Show Don't Tell) released on 28-Apr-2015.
+31-Mar-2015. and 3.0.1 (Show Don't Tell) released on 15-Nov-2015.
 
 
 Contact Us

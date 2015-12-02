@@ -123,7 +123,7 @@ install-gnu: html
 install-sf: html
 	-rsync $(RSYNC_ARGS) output/ bwarsaw,mailman@web.sourceforge.net:htdocs/
 
-install-wooz: html
-	-rsync $(RSYNC_ARGS) output/ $(USER)@mirror.wooz.org:/var/www/listorg/
+install-mm3: html
+	-rsync $(RSYNC_ARGS) output/ $(USER)@lists.mailman3.org:/var/www/listorg/
 
-install: install-main install-gnu install-sf install-wooz
+install: install-main install-gnu install-sf install-mm3

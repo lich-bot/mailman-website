@@ -19,14 +19,14 @@ Mailman 2.1 is available from the following sources:
 a release announcement. It often takes a little while for the GNU ftp
 site to catch up.*
 
-Mailman 3.0 is available from the `Python Package Index (PyPI) <https://pypi.python.org/pypi?%3Aaction=search&term=mailman&submit=search>`__.
+Mailman 3 is available from the `Python Package Index (PyPI) <https://pypi.python.org/pypi?%3Aaction=search&term=mailman&submit=search>`__.
 
-Mailman 3.0 has been split into a suite of related components.  The easiest
+Mailman 3 has been split into a suite of related components.  The easiest
 way to get them and install them all is to use `mailman bundler
 <https://gitlab.com/mailman/mailman-bundler/>`__ and follow the instructions
 that come with it.
 
-Here's a list of the names of the Mailman 3.0 components:
+Here's a list of the names of the Mailman 3 components:
 
 -  *Mailman Suite* refers to the collection of related Mailman projects that provide all the pieces of a typical mailing list management setup.
 -  *Mailman Core* is the part that delivers the emails and handles the mailing list and user data

@@ -10,4 +10,4 @@ Here are the current list of mirrors:
 -  `www.list.org <http://www.list.org/>`__
 -  `GNU <http://www.gnu.org/software/mailman/index.html>`__
 -  `SourceForge <http://mailman.sourceforge.net>`__
--  `mirror.list.org <http://mirror.list.org/>`__
+-  `mirror.mailman3.org <http://mirror.mailman3.org/>`__

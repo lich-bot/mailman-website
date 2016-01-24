@@ -124,7 +124,7 @@ install-sf: html
 	-rsync $(RSYNC_ARGS) output/ bwarsaw,mailman@web.sourceforge.net:htdocs/
 
 install-mm3: html
-	-rsync $(RSYNC_ARGS) output/ $(USER)@mirror.mailman3.org:/var/www/listorg/
+	-rsync $(RSYNC_ARGS) output/ $(USER)@mirror.list.org:/var/www/listorg/
 
 install-wooz: html
 	-rsync $(RSYNC_ARGS) output/ $(USER)@mirror.wooz.org:/var/www/listorg/

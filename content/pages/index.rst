@@ -37,8 +37,8 @@ IRC channels.
 Current Version
 ~~~~~~~~~~~~~~~
 
-The current stable GNU Mailman version are 2.1.20 released on
-31-Mar-2015. and 3.0.1 (Show Don't Tell) released on 15-Nov-2015.
+The current stable GNU Mailman versions are 2.1.21 released on
+28-Feb-2016 and 3.0.1 (Show Don't Tell) released on 15-Nov-2015.
 
 
 Contact Us

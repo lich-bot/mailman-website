@@ -16,17 +16,17 @@ License <http://www.gnu.org/copyleft/gpl.html>`__, and written in
 the `Python <http://www.python.org/>`__ programming language.
 
 We want to thank our generous list of
-`financial donors <http://wiki.list.org/COM/Donors>`__ whose
+`financial donors <https://wiki.list.org/COM/Donors>`__ whose
 contributions allowed us to send a core developer to PyCon 2015.
 Please consider
 `donating to the GNU Mailman <https://my.fsf.org/civicrm/contribute/transact?reset=1&id=22>`__
-project yourself. (`details <http://wiki.list.org/x/R4BJ>`__)
+project yourself. (`details <https://wiki.list.org/x/R4BJ>`__)
 
-See the `Security page <http://wiki.list.org/SEC/Home>`__ for important
+See the `Security page <https://wiki.list.org/SEC/Home>`__ for important
 security related information, and the `help <help.html>`__ page for additional
 resources for users, list and site administrators, and developers.
 
-Our `wiki <http://wiki.list.org>`__ has lots of other great information,
+Our `wiki <https://wiki.list.org>`__ has lots of other great information,
 including a FAQ.
 
 Our `Code of Conduct <coc.html>`__ applies to all of our modes of discussion
@@ -37,8 +37,8 @@ IRC channels.
 Current Version
 ~~~~~~~~~~~~~~~
 
-The current stable GNU Mailman versions are 2.1.21 released on
-28-Feb-2016 and 3.0.1 (Show Don't Tell) released on 15-Nov-2015.
+The current stable GNU Mailman versions are 2.1.22 released on
+17-Apr-2016 and 3.0.3 (Show Don't Tell) released on 29-Mar-2016.
 
 
 Contact Us

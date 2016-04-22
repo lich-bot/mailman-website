@@ -49,7 +49,13 @@ The Community
   `mailman-users at python dot org
   <mailto:%6D%61%69%6C%6D%61%6E%2D%75%73%65%72%73%40%70%79%74%68%6F%6E%2E%6F%72%67>`__.
   This mailing list is also available on the `Gmane <http://www.gmane.org>`__
-  gmane.mail.mailman.user newsgroup.
+  ``gmane.mail.mailman.user`` newsgroup.
+
+- `Mailman3 Users <https://lists.mailman3.org/mailman3/lists/mailman-users@mailman3.org/>`__
+  (`*archives* <https://lists.mailman3.org/archives/list/mailman-users@mailman3.org/>`__)
+  is a new public discussion list for users of and others interested in
+  Mailman 3. Email the group at `mailman-users at mailman3 dot org
+  <mailto:%6D%61%69%6C%6D%61%6E%2D%75%73%65%72%73%40%6D%61%69%6C%6D%61%6E%33%2E%6F%72%67>`__.
 
 - `Mailman Developers
   <http://mail.python.org/mailman/listinfo/mailman-developers>`__ (`*archives*
@@ -59,7 +65,7 @@ The Community
   `mailman-developers at python dot org
   <mailto:%6D%61%69%6C%6D%61%6E%2D%64%65%76%65%6C%6F%70%65%72%73%40%70%79%74%68%6F%6E%2E%6F%72%67>`__.
   This mailing list is also available on the `Gmane <http://www.gmane.org>`__
-  gmane.mail.mailman.devel newsgroup.
+  ``gmane.mail.mailman.devel`` newsgroup.
 
 - `Mailman Internationalization
   <http://mail.python.org/mailman/listinfo/mailman-i18n>`__ (`*archives*
@@ -67,7 +73,7 @@ The Community
   list for discussing the multi-lingual support in Mailman 2.1.  Everyone who is
   working on translations of Mailman should subscribe to this mailing list. .
   This mailing list is also available on the `Gmane <http://www.gmane.org>`__
-  gmane.mail.mailman.i18n newsgroup.
+  ``gmane.mail.mailman.i18n`` newsgroup.
 
 IRC
 ~~~

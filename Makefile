@@ -129,7 +129,4 @@ install-sf: html
 install-mm3: html
 	-rsync $(RSYNC_ARGS) output/ $(USER)@mirror.list.org:/var/www/listorg/
 
-install-wooz: html
-	-rsync $(RSYNC_ARGS) output/ $(USER)@mirror.wooz.org:/var/www/listorg/
-
 install: install-main install-gnu install-sf install-mm3

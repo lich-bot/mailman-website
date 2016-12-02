@@ -47,7 +47,7 @@ DEFAULT_PAGINATION = False
 
 MENUITEMS = [
     ('Home', 'index.html'),
-    ('Wiki', 'http://wiki.list.org'),
+    ('Wiki/FAQs', 'http://wiki.list.org'),
     ('Documentation', [
         ('Mailman Suite', 'http://docs.mailman3.org'),
         ('Mailman Core', 'http://mailman.readthedocs.org'),

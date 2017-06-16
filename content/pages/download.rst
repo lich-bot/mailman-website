@@ -21,10 +21,9 @@ site to catch up.*
 
 Mailman 3 is available from the `Python Package Index (PyPI) <https://pypi.python.org/pypi?%3Aaction=search&term=mailman&submit=search>`__.
 
-Mailman 3 has been split into a suite of related components.  The easiest
-way to get them and install them all is to use `mailman bundler
-<https://gitlab.com/mailman/mailman-bundler/>`__ and follow the instructions
-that come with it.
+Mailman 3 has been split into a suite of related components.  See
+`Mailman Suite Installation <http://docs.list.org/en/latest/prodsetup.html>`__
+for some installation documentation.
 
 Here's a list of the names of the Mailman 3 components:
 

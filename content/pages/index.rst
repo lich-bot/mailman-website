@@ -40,7 +40,7 @@ Current Version
 The current stable GNU Mailman versions are:
 
 * 19-Nov-2017 Mailman 3.1.1 (Between The Wheels)
-* 06-Feb-2018 Mailman 2.1.27
+* 22-Jun-2018 Mailman 2.1.27
 
 
 Contact Us

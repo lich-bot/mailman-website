@@ -40,7 +40,7 @@ Current Version
 The current stable GNU Mailman versions are:
 
 * 10-Jul-2018 Mailman 3.2.0 (La Villa Strangiato)
-* 23-Jul-2018 Mailman 2.1.28
+* 24-Jul-2018 Mailman 2.1.29
 
 
 Contact Us

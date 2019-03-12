@@ -118,7 +118,9 @@ github: publish
 RSYNC_ARGS = -rltgoDCvz
 
 install-main: html
-	-rsync $(RSYNC_ARGS) output/ barry@www.list.org:www.list.org
+	# list.org and www.list.org are now the same server as mirror.list.org
+	# which is also mirror.mailman3.org.
+	-rsync $(RSYNC_ARGS) output/ $(USER)@mirror.list.org:/var/www/listorg/
 
 install-gnu: html
 	-rsync $(RSYNC_ARGS) output/ $(HOME)/projects/mailman-gnu
@@ -126,7 +128,7 @@ install-gnu: html
 install-sf: html
 	-rsync $(RSYNC_ARGS) output/ bwarsaw,mailman@web.sourceforge.net:htdocs/
 
-install-mm3: html
-	-rsync $(RSYNC_ARGS) output/ $(USER)@mirror.list.org:/var/www/listorg/
+#install-mm3: html
+#	-rsync $(RSYNC_ARGS) output/ $(USER)@mirror.list.org:/var/www/listorg/
 
-install: install-main install-gnu install-sf install-mm3
+install: install-main install-gnu install-sf

@@ -7,7 +7,6 @@ Mailman web page mirrors
 These web pages are mirrored in several locations for your convenience.
 Here are the current list of mirrors:
 
--  `www.list.org <http://www.list.org/>`__
--  `GNU <http://www.gnu.org/software/mailman/index.html>`__
--  `SourceForge <http://mailman.sourceforge.net>`__
--  `list.org mirror <http://mirror.list.org/>`__
+-  `www.list.org <https://www.list.org/>`__
+-  `GNU <https://www.gnu.org/software/mailman/index.html>`__
+-  `SourceForge <https://mailman.sourceforge.io>`__

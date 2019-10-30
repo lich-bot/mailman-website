@@ -63,7 +63,7 @@ of GNU Mailman.
 Thanks go out to:
 
 - `Canonical <http://www.canonical.com>`__
-  and `Zope Corporation <http://www.zope.com>`__ for their past support
+  and `Zope Corporation` for their past support
   of Barry's work while under their employ.
 - `The Mail-Archive.com <http://www.mail-archive.com>`__ for their
   donation kickstarting the `directed GNU Mailman/Free Software

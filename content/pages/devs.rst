@@ -64,11 +64,11 @@ version control.
   * `View the source <https://gitlab.com/mailman/mailmanclient/tree/master>`__
   * `Submit merge requests <https://gitlab.com/mailman/mailmanclient/merge_requests>`__
 
-* `The Mailman bundler, a convenient installer for the suite <https://gitlab.com/mailman/mailman-bundler>`__
+* `mailman-suite, example configuration for a Django project including both Postorius and HyperKitty <https://gitlab.com/mailman/mailman-suite>`__
 
-  * `Issue tracker <https://gitlab.com/mailman/mailman-bundler/issues>`__
-  * `View the source <https://gitlab.com/mailman/mailman-bundler/tree/master>`__
-  * `Submit merge requests <https://gitlab.com/mailman/mailman-bundler/merge_requests>`__
+  * `Issue tracker <https://gitlab.com/mailman/mailman-suite/issues>`__
+  * `View the source <https://gitlab.com/mailman/mailman-suite/tree/master>`__
+  * `Submit merge requests <https://gitlab.com/mailman/mailman-suite/merge_requests>`__
 
 * `This website <https://gitlab.com/mailman/mailman-website>`__
 

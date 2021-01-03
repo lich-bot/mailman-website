@@ -35,15 +35,15 @@ The Community
 ~~~~~~~~~~~~~
 
 - `Mailman Announce
-  <http://mail.python.org/mailman/listinfo/mailman-announce>`__ (`*archives*
-  <http://mail.python.org/pipermail/mailman-announce/>`__) is a read-only list
+  <https://mail.python.org/mailman3/lists/mailman-announce@python.org>`__ (`*archives*
+  <https://mail.python.org/archives/list/mailman-announce@python.org/>`__) is a read-only list
   that you can subscribe to if you are only interested in release notices and
   other important news. Only the core Mailman developers can post messages to
   this list.  This mailing list is also available on the `Gmane
   <http://www.gmane.org>`__ ``gmane.mail.mailman.announce`` newsgroup.
 
-- `Mailman Users <http://mail.python.org/mailman/listinfo/mailman-users>`__
-  (`*archives* <http://mail.python.org/pipermail/mailman-users/>`__) is a public
+- `Mailman Users <https://mail.python.org/mailman3/lists/mailman-users@python.org>`__
+  (`*archives* <https://mail.python.org/archives/list/mailman-users@python.org/>`__) is a public
   discussion mailing list for users who need help installing, configuring, or
   running GNU Mailman (especially version 2.1). Email the group at
   `mailman-users at python dot org
@@ -58,8 +58,8 @@ The Community
   <mailto:%6D%61%69%6C%6D%61%6E%2D%75%73%65%72%73%40%6D%61%69%6C%6D%61%6E%33%2E%6F%72%67>`__.
 
 - `Mailman Developers
-  <http://mail.python.org/mailman/listinfo/mailman-developers>`__ (`*archives*
-  <http://mail.python.org/pipermail/mailman-developers/>`__) is a public
+  <https://mail.python.org/mailman3/lists/mailman-developers@python.org>`__ (`*archives*
+  <https://mail.python.org/archives/list/mailman-developers@python.org/>`__) is a public
   discussion mailing list for developers who want to work together to improve
   GNU Mailman, and users who are working with Mailman 3.  Email the group at
   `mailman-developers at python dot org
@@ -68,8 +68,8 @@ The Community
   ``gmane.mail.mailman.devel`` newsgroup.
 
 - `Mailman Internationalization
-  <http://mail.python.org/mailman/listinfo/mailman-i18n>`__ (`*archives*
-  <http://mail.python.org/pipermail/mailman-i18n/>`__) is the public mailing
+  <https://mail.python.org/mailman3/lists/mailman-i18n@python.org>`__ (`*archives*
+  <https://mail.python.org/archives/list/mailman-i18n@python.org/>`__) is the public mailing
   list for discussing the multi-lingual support in Mailman 2.1.  Everyone who is
   working on translations of Mailman should subscribe to this mailing list. .
   This mailing list is also available on the `Gmane <http://www.gmane.org>`__

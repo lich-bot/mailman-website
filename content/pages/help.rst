@@ -20,5 +20,7 @@ Beyond those resources, please use the
 `discussion lists <contact.html#the-community>`__
 for asking questions. There are lots of very helpful and knowledgeable
 people on the lists who can help. Probably the most helpful will be the
-`mailman-users <http://mail.python.org/mailman/listinfo/mailman-users>`__
-mailing list.
+`mailman-users <http://mail.python.org/mailman3/lists/mailman-users@python.org>`__
+mailing list for Mailman 2.1 or the
+`mailman3-users <http://lists.mailman3.org/mailman3/lists/mailman-users@mailman3.org/>`__
+mailing list for Mailman 3.

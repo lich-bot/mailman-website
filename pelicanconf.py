@@ -74,6 +74,7 @@ SIDEBAR_LINKS = [
     ('Developers', 'devs.html'),
     ('Mirrors', 'mirrors.html'),
     ('Code of Conduct', 'coc.html'),
+    ('Privacy Policy', 'privacy.html'),
     ('Help', 'help.html'),
     ]
 

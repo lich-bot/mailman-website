@@ -54,6 +54,7 @@ MENUITEMS = [
         ('Postorius', 'http://postorius.readthedocs.org'),
         ('Mailman Client', 'http://mailmanclient.rtfd.org'),
         ('Hyperkitty', 'http://hyperkitty.rtfd.org'),
+        ('Mailman 2.1', './docs.html'),
         ]),
     ('Source Code', [
         ('Mailman 3', 'http://gitlab.com/mailman/'),

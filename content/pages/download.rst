@@ -32,7 +32,7 @@ Here's a list of the names of the Mailman 3 components:
 -  *Postorius* is the web interface that allows users (list members, list admins, moderators) to change their user settings and the settings for their lists.
 -  *HyperKitty* is the archiver which provides a web interface to access GNU Mailman v3 archives as well as ways interact with the lists. It can behave a little like a web forum, for those who prefer not to use email.
 -  *MailmanClient* is the library that provides official Python bindings for the GNU Mailman 3 REST API. This allows you to write your own front end or scripts for interacting with Mailman. (It's also what Postorius uses to interact with Mailman Core.)
--  *Mailman Bundler* is a tool to help you install all of Mailman Suite via PyPI
+-  *Mailman Web* is an umbrella Django project that combines all the web components of Mailman 3 into a single project that can be installed with a single command.
 
 
 Signing keys

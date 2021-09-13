@@ -72,4 +72,4 @@ IRC
 ~~~
 
 Most of the developers, and lots of users, also hang out on the ``#mailman``
-channel on the `freenode IRC network <https://freenode.net/>`__.
+channel on the `Libera.Chat IRC network <https://libera.chat/>`__.

@@ -92,4 +92,4 @@ IRC
 ~~~
 
 Some of the Mailman developers also occasionally hang out on the ``#mailman``
-IRC channel on the `freenode IRC network <https://freenode.net/>`__. Stop by!
+IRC channel on the `Libera.Chat IRC network <https://libera.chat/>`__.

@@ -20,3 +20,8 @@ indexed in search engines. Other lists maintain archives which are available
 only to list subscribers, but may allow anyone to subscribe. Anything you post
 to a list, including your name and email address and any information in the
 post or its email signature is potentially available to anyone.
+
+To remove your name and email address from any list, unsubscribe by sending
+an email to LISTNAME-unsubscribe@example.com (replacing LISTNAME with the
+actual list name and example.com with the list's actual domain) and responding
+to any confirmation request.

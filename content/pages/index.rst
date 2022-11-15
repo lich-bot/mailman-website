@@ -39,7 +39,7 @@ Current Version
 
 The current stable GNU Mailman versions are:
 
-* 26-Oct-2022 Mailman 3.3.6 (Tom Sawyer)
+* 10-Nov-2022 Mailman 3.3.7 (Tom Sawyer)
 * 13-Dec-2021 Mailman 2.1.39
 
 
